@@ -1,0 +1,16 @@
+.block{
+    padding: 20px 0;
+}
+
+.block__header{
+    margin-bottom: 10px;
+}
+
+.block__author{
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.block__content{
+    font-size: 14px;
+}

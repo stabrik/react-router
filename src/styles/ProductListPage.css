@@ -1,0 +1,15 @@
+.products ul{
+    list-style-type: none;
+}
+
+.products a{
+    text-decoration: none;
+    color: #222;
+    padding-top: 10px;
+    display: block;
+    cursor:pointer;
+}
+
+.products a:hover{
+    color: orange;
+}

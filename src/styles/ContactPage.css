@@ -1,0 +1,29 @@
+
+.contact__text{
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+    border-color: #000;
+    font-family: 'open-sans', sans-serif;
+}
+
+.contact__text:focus{
+    outline: none;
+}
+
+.contact__btn{
+    display: block;
+    padding: 10px 5px;
+    border: 1px solid #000;
+    background-color: #fff;
+    color: #000;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-left: auto;
+    transition: .2s;
+}
+
+.contact__btn:hover{
+    background-color: #000;
+    color: #fff;
+}
